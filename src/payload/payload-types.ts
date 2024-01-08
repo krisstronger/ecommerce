@@ -23,7 +23,7 @@ export interface Config {
     categories: Category;
     users: User;
     redirects: Redirect;
-    'payload-preferences': PayloadPrefeesrence;
+    'payload-preferences': PayloadPreference;
     'payload-migrations': PayloadMigration;
   };
   globals: {
